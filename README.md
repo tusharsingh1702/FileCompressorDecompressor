@@ -1,6 +1,6 @@
 <h1 align='center'> Huffman Compressor/Decompressor</h1>
 <h3 align='center'> File compressor/decompressor using a C++ Huffman coding algorithm implementation.</h3>
-<p align='center'><img src='https://www.google.com/imgres?q=huffman%20encoding%20compression%20and%20decompression&imgurl=https%3A%2F%2Fwww.lavivienpost.com%2Fwp-content%2Fuploads%2F2022%2F06%2Fhuffman4.jpg&imgrefurl=https%3A%2F%2Fwww.lavivienpost.com%2Fhuffman-coding-and-decoding%2F&docid=uaMqqTlxJPiPgM&tbnid=qvu2lCFf6MzU_M&vet=12ahUKEwiEh6vporiGAxXxyqACHb4gISQQM3oECFEQAA..i&w=768&h=432&hcb=2&ved=2ahUKEwiEh6vporiGAxXxyqACHb4gISQQM3oECFEQAA' alt='Huffman Coding'/></p>
+<p align='center'><img src='huffman.jpeg' alt='Huffman Coding'/></p>
 
 ## Overview
 
@@ -63,7 +63,7 @@ The compressed file contains a header with the tree structure or character frequ
    ./HuffmanCompressor
 
 a. Enter compress when prompted.
-  b. The program reads input.txt, compresses it to output.txt, and displays compression statistics.
+   b. The program reads input.txt, compresses it to output.txt, and displays compression statistics.
 
 2. **Decompression**;
   ```sh
